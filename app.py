@@ -8,8 +8,6 @@ import numpy as np
 from collections import OrderedDict
 import torch
 
-
-# Page config and dark theme CSS
 st.set_page_config(page_title="dtector and tracker", layout="wide")
 st.markdown(
     """
